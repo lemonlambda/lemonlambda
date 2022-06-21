@@ -4,6 +4,5 @@
 <br/>
 [![Lemons's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LemonjamesD&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-I am female, I do the programmer, give me 10000000 twich bobux.
-
-I love rust.
+Lemon (She/Her) - 15
+🔥Blazingly Fast Programming In Rust🚀
