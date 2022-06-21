@@ -4,5 +4,5 @@
 <br/>
 [![Lemons's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LemonjamesD&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-Lemon (She/Her) - 15
+Lemon (She/Her) - 15<br/>
 🔥Blazingly Fast Programming In Rust🚀
