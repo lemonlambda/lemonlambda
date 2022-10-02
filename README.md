@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Lemon!
-#### I am a 16 year old trans girl who programs.
+# Hi there 👋, My name is Lemon!
+## I am a 16 year old trans girl who programs.
 I love rust and I am currently working on a few things.
 
 Skills: Rust, Python, C, JS, and more!
