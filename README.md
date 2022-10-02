@@ -1,10 +1,30 @@
-# Lemon (She/Her) - 16<br/>
-I program in mainly rust.
+### Hi there 👋, My name is Lemon!
+#### I am a 16 year old trans girl who programs.
+I love rust and I am currently working on a few things.
 
-# Stats
+Skills: Rust, Python, C, JS, and more!
 
-[![Lemon's Trophies](https://github-profile-trophy.vercel.app/?username=LemonjamesD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
-[![Lemon's Github Stats](https://github-readme-stats.vercel.app/api?username=LemonjamesD&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Lemons's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LemonjamesD&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Chalk 
+- 👯 I’m looking to collaborate on Rust Projects 
+- 📫 How to reach me: Discord: `A Lemon#3458` 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I love cats! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LemonjamesD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/cmRYhWKJ)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LemonjamesD)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonjamesD)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonjamesD&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LemonjamesD)  
+
+![GitHub metrics](https://metrics.lecoq.io/LemonjamesD)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LemonjamesD)  
+
+![Profile views](https://gpvc.arturio.dev/LemonjamesD)  
