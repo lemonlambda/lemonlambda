@@ -10,6 +10,8 @@ Skills: Rust, Python, C, JS, and more!
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I love cats! 
 
+# Stats
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LemonjamesD)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonjamesD)](https://github.com/anuraghazra/github-readme-stats)
