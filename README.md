@@ -1,14 +1,14 @@
 # Hi there 👋, My name is Lemon!
 ## I am a 16 year old trans girl who programs.
+### Pronouns are She/Her
 I love rust and I am currently working on a few things.
 
 Skills: Rust, Python, C, JS, and more!
 
-- 🔭 I’m currently working on Chalk 
-- 👯 I’m looking to collaborate on Rust Projects 
-- 📫 How to reach me: Discord: `A Lemon#3458` 
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I love cats! 
+- I’m working on Chalk 
+- I'd love to collaborate on Rust Projects 
+- How to reach me: Discord: `A Lemon#3458` 
+- Fun fact: I love cats! 
 
 # Stats
 
