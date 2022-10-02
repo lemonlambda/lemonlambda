@@ -13,6 +13,8 @@ Skills: Rust, Python, C, JS, and more!
 # Technology I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 # Stats
 
@@ -28,6 +30,4 @@ Skills: Rust, Python, C, JS, and more!
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LemonjamesD)  
 
-![Profile views](https://gpvc.arturio.dev/LemonjamesD)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LemonjamesD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/cmRYhWKJ)   
+![Profile views](https://gpvc.arturio.dev/LemonjamesD) 
