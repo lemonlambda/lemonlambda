@@ -10,8 +10,8 @@ Skills: Rust, Python, C, JS, and more!
 - How to reach me: Discord: `A Lemon#3458` 
 - Fun fact: I love cats! 
 
-# Cool Badges
-[![@My Holopin board](https://holopin.io/api/user/board?user=lemonjamesd)](https://holopin.io/@lemonjamesd)
+# Mf Holopins
+[![@My board](https://holopin.io/api/user/board?user=lemonjamesd)](https://holopin.io/@lemonjamesd)
 
 # Technology I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
