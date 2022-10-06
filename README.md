@@ -4,11 +4,9 @@
 I love rust and I am currently working on a few things.
 
 Skills: Rust, Python, C, JS, and more!
-
-- I’m working on Chalk 
-- I'd love to collaborate on Rust Projects 
-- How to reach me: Discord: `A Lemon#3458` 
-- Fun fact: I love cats! 
+ 
+- I love Rust 
+- You can reach me on my Discord: `A Lemon#3458` 
 
 # My Holopins
 [![@My board](https://holopin.io/api/user/board?user=lemonjamesd)](https://holopin.io/@lemonjamesd)
