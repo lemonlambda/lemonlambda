@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Lemon!
+# Hi there, My name is Lemon!
 ## I am a 16 year old trans girl who programs.
 ### Pronouns are She/Her
 I love rust and I am currently working on a few things.
