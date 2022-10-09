@@ -1,38 +1,42 @@
-# Hi there, My name is Lemon!
-## I am a 16 year old trans girl who programs.
-### Pronouns are She/Her
-I love rust and I am currently working on a few things.
+<h1 align="center"> Hi there, My name is Lemon! </h1>
+<h2 align="center">I am a 16 year old trans girl who programs. </h2>
+<h3 align="center"> Pronouns are She/Her </h3>
+<p align="center">
+I love rust and I am currently working on a few things.</br>
+</p>
 
-Skills: Rust, Python, C, JS, and more!
- 
-- I love Rust 
-- You can reach me on my Discord: `A Lemon#3458` 
+<h1 align="center"> My Holopins </h1>
+<a href="https://holopin.io/@lemonjamesd">
+<img src="https://holopin.io/api/user/board?user=lemonjamesd"/>
+</a>
 
-# My Holopins
-[![@My board](https://holopin.io/api/user/board?user=lemonjamesd)](https://holopin.io/@lemonjamesd)
+<h1 align="center"> Technology I use </h1>
+<p align="center">
+ <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+ <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-# Technology I use
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<h1 align="center"> Stats </h1>
+<p align="center">
+ <img src="https://gpvc.arturio.dev/LemonjamesD"/>
+</p>
 
-# Stats
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=LemonjamesD&theme=onedark"/>
+ </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LemonjamesD)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonjamesD)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonjamesD&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LemonjamesD)  
-
-![GitHub metrics](https://metrics.lecoq.io/LemonjamesD)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LemonjamesD)  
-
-![Profile views](https://gpvc.arturio.dev/LemonjamesD) 
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonjamesD&theme=onedark"/>
+ </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=LemonjamesD&show_icons=true&count_private=true&theme=onedark"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonjamesD&theme=onedark"/>
+</p>
