@@ -21,21 +21,7 @@ I love rust and I am currently working on a few things.</br>
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-<h1 align="center"> Stats </h1>
 <p align="center">
- <img src="https://gpvc.arturio.dev/LemonjamesD"/>
-</p>
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=LemonjamesD&theme=onedark"/>
- </a>
-</p>
-
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonjamesD&theme=onedark"/>
- </a>
  <img src="https://github-readme-stats.vercel.app/api?username=LemonjamesD&show_icons=true&count_private=true&theme=onedark"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonjamesD&theme=onedark"/>
-</p>
+</p
