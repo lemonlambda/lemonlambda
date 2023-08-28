@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, My name is Lemon! </h1>
-<h2 align="center">I am a 16 year old trans girl who programs. </h2>
+<h2 align="center">I am a 17 year old trans girl who programs. </h2>
 <h3 align="center"> Pronouns are She/Her </h3>
 <p align="center">
 I love rust and I am currently working on a few things.</br>
