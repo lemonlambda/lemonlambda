@@ -22,6 +22,6 @@ I love rust and I am currently working on a few things.</br>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=LemonjamesD&show_icons=true&count_private=true&theme=onedark"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonjamesD&theme=onedark"/>
-</p
+ <img src="https://github-readme-stats.vercel.app/api?username=lemonlambda&show_icons=true&count_private=true&theme=onedark"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemonlambda&theme=onedark"/>
+</p>
